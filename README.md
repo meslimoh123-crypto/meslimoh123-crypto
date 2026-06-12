@@ -18,7 +18,7 @@ I'm a passionate **mobile developer** from **Algeria** 🇩🇿, crafting meanin
 - 🤖 Exploring **AI agents**, **LLMs**, and **automation workflows**
 - 📱 Specializing in **cross-platform mobile development** with Flutter
 - 💡 Interested in **UI/UX design**, clean architecture, and scalable systems
-- 🌱 Always learning and shipping — currently diving into **CrewAI** and **LLM-powered apps**
+- 🌱 Always learning and shipping — currently diving into **AI agent frameworks** and **LLM-powered apps**
 - 📬 Reach me at: **meslimoh.123@gmail.com**
 - 😄 Pronouns: **he/him**
 
@@ -43,7 +43,7 @@ I'm a passionate **mobile developer** from **Algeria** 🇩🇿, crafting meanin
 
 ## 📌 My Projects
 
-### 🎓 [Flutter UniMatch](https://github.com/meslimoh123-crypto/Flutter_UniMatch)
+### 🎓 [UniMatch](https://github.com/meslimoh123-crypto/Flutter_UniMatch)
 > A Flutter app that helps students find and match with universities that fit their goals and academic profile.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -55,48 +55,48 @@ I'm a passionate **mobile developer** from **Algeria** 🇩🇿, crafting meanin
 
 ---
 
-## 🤖 AI & Automation Projects I'm Working With
+## 🤖 AI & Automation Builds
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 [AIdea — Flutter AI App](https://github.com/meslimoh123-crypto/aidea)
-An open-source Flutter app integrating **GPT-4**, **Claude**, **Gemini** and image generation models. Full LLM client built with Dart.
+### 🧠 [DK-AI Chat](https://github.com/meslimoh123-crypto/aidea)
+My personal Flutter AI assistant app integrating **GPT-4**, **Claude**, **Gemini** and image generation. A full LLM client built with Dart — explore, chat, create.
 
-![Stars](https://img.shields.io/github/stars/mylxsw/aidea?style=flat-square&label=Original%20Stars&color=gold)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![AI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🐝 [CrewAI — AI Agent Framework](https://github.com/meslimoh123-crypto/crewAI)
-Framework for **orchestrating autonomous AI agents**. Build multi-agent pipelines where AI agents collaborate to solve complex tasks.
+### 🐝 [AgentFlow](https://github.com/meslimoh123-crypto/crewAI)
+A framework I'm using and extending for **building autonomous AI agent pipelines**. Multi-agent collaboration where each agent has a role, goal, and tools.
 
-![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=Original%20Stars&color=gold)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B6B?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-00C7B7?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📚 [Flutter Example Apps](https://github.com/meslimoh123-crypto/FlutterExampleApps)
-A curated collection of **real-world Flutter apps** covering animations, state management, Firebase, and more. Great reference for Flutter patterns.
+### 📱 [FlutterLab](https://github.com/meslimoh123-crypto/FlutterExampleApps)
+My personal Flutter playground — a growing collection of **UI experiments, animations, and app patterns** I study and build on. From state management to Firebase integrations.
 
-![Stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps?style=flat-square&label=Original%20Stars&color=gold)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </td>
 <td width="50%">
 
-### ⭐ [Awesome Flutter](https://github.com/meslimoh123-crypto/awesome-flutter)
-The **definitive curated list** of Flutter libraries, tools, tutorials, articles and resources. A must-have reference for every Flutter dev.
+### 📖 [DK Dev Toolkit](https://github.com/meslimoh123-crypto/awesome-flutter)
+My curated personal reference of the **best Flutter libraries, tools, and resources** I actively use and recommend. Kept up-to-date as I discover new gems.
 
-![Stars](https://img.shields.io/github/stars/Solido/awesome-flutter?style=flat-square&label=Original%20Stars&color=gold)
-![Awesome](https://img.shields.io/badge/Awesome-FC60A8?style=flat-square&logo=awesomelists&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Resources](https://img.shields.io/badge/Resources-FC60A8?style=flat-square)
 
 </td>
 </tr>
